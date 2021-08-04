@@ -45,5 +45,6 @@
         "optional": "cpp",
         "string_view": "cpp",
         "queue": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
